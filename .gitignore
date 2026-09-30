@@ -1,0 +1,6 @@
+# Repo Mon-premier-projet : ne suit que README à la racine.
+# Ignore tout le reste du home pour éviter de scanner
+# les jonctions système Windows (Application Data, Cookies...).
+*
+!README.md
+!.gitignore
